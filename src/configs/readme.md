@@ -1,0 +1,1 @@
+In this module, we provide all the configurations for the project: file paths and global variables.
